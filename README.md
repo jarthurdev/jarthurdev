@@ -2,6 +2,8 @@
 
 <h1 align="left">Hi i'm João Arthur</h1>
 
+<img src="alien.gif" width="200" align="right">
+
 ###
 
 <br><br>
