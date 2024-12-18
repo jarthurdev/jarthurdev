@@ -36,9 +36,9 @@
 - **Languages, Frameworks and Databases**:
 
      <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-     <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
-     <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
      <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+     <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
+
 
 - **Softwares and Tools**:
 
@@ -50,7 +50,6 @@
 - **Interested in learn**:
 
    <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/></a>
-   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
    <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/></a>
    <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/swift.png" alt="swift"/></a>
 
