@@ -7,9 +7,9 @@ Olá! 👋 Eu sou o **João Arthur**, um desenvolvedor FullStack com foco em HTM
 ---
 
 ## 📂 Projetos em Destaque
-- [Projeto 1](#) - breve descrição do projeto  
-- [Projeto 2](#) - breve descrição do projeto  
-- [Projeto 3](#) - breve descrição do projeto  
+- [Projeto 1](https://github.com/jarthurdev/sistema-cupons-nosql) - API REST de cupons de desconto desenvolvida em Node.js com DynamoDB
+- [Projeto 2](https://github.com/jarthurdev/system-logs-mongo) - Sistema de API REST para centralização de logs de sistemas distribuídos. 
+- [Projeto 3](https://github.com/jarthurdev/gens-website) - Website institucional da Agência Gens
 
 ---
 
