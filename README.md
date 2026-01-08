@@ -14,7 +14,7 @@ Olá! 👋 Eu sou o **João Arthur**, um desenvolvedor FullStack com foco em HTM
 ---
 
 ## 📫 Contato
-- **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/joao-arthur-dev)  
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joao-arthur-dev)
 - **Email:** jarthurdevv@gmail.com  
 
 ---
