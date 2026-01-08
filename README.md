@@ -2,12 +2,7 @@
 
 <img align="right" src="alien.gif" width="250" height="250">
 
-Olá! 👋 Eu sou o **João Arthur**, um desenvolvedor FullStack com experiência em:  
-
-- **JavaScript:** Node.js, React  
-- **Backend:** Java(Spring), Python  
-- **Frontend:** HTML, CSS  
-- **Banco de dados:** SQL, MongoDB
+Olá! 👋 Eu sou o **João Arthur**, um desenvolvedor FullStack com foco em HTML, CSS, JavaScript, TypeScript e Node.JS!
 
 ---
 
